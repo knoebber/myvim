@@ -20,7 +20,7 @@ set shiftwidth=4
 
 " show the matching part of the pair for [] {} and ()
 set showmatch
-
+colorscheme molokai
 " enable all Python syntax highlighting features
 let python_highlight_all = 1
 filetype indent on
