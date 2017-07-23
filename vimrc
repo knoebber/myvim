@@ -11,6 +11,7 @@ set ts=2
 set expandtab
 " indent when moving to the next line while writing code
 set autoindent
+set smartindent
 set tabstop=2                   "A tab is 2 spaces
 
 set expandtab                   "Always uses spaces instead of tabs
